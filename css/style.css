@@ -1209,6 +1209,10 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0;
   }
 }
+.wedding-events .map-container {
+    padding-left: 5%;
+    padding-right: 5%;
+}
 
 #qbootstrap-started {
   position: relative;
