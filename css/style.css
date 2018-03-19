@@ -1150,7 +1150,6 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   height: 400px;
   min-height: 100%;
-  background-attachment:fixed;
 }
 .wedding-events .desc {
   padding: 2em;
