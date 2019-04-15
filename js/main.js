@@ -277,12 +277,6 @@
 		document.getElementById("days").innerHTML = days +" <small>days</small>";
 		document.getElementById("hours").innerHTML = hours + " <small>hours</small> ";
 		document.getElementById("minutes").innerHTML = minutes + " <small>minutes</small> ";
-
-		// If the count down is finished, write some text 
-		if (distance < 0) {
-		 clearInterval(x);
-		 document.getElementById("demo").innerHTML = "The Wedding Ceremony has begun!";
-		}
 		}, 60000);	
 	
 		
